@@ -1,4 +1,4 @@
-# EXP-6-Stack-using-array
+# Stack-using-array
 The Array implementation of stacks involves allocation of fixed size array in the memory.Both stack operations (push and pop) are made on this array with a constant check being made to ensure that the array does not go out of bounds.
 
 Push Operation:- The Push operation involves checking whether or not the stack pointer is pointing at the upper bound of the array. If it is not,the stack pointer is incremented by 1 and the new item is pushed (inserted) at the top of the stack
