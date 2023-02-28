@@ -22,3 +22,5 @@
 
 <br>This program uses the Push and Pop algorithms for realizing common stack operations.</br>
 <br>This program code shows storage of an integer type element into the stack. However, we may store other built-in or user defined type elements in the stack as per our own requirements.</br>
+![image](https://user-images.githubusercontent.com/125802204/221756817-8ed25a35-495c-4ec5-b624-65640b65f19b.png)
+
